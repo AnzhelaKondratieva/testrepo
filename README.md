@@ -1,2 +1,2 @@
 # testrepo
-Repo for IBM course studies
+This repository is created to study the IBM courses
